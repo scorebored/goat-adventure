@@ -1,0 +1,23 @@
+html,body {
+    height: 100%;
+}
+
+#output {
+    margin-top: 10px;
+    width: 600px;
+    height: 600px;
+}
+
+#output textarea {
+    width: 100%;
+    height: 100%;
+    vertical-align: bottom;
+}
+
+#input {
+    width: 600px;
+}
+
+#input input {
+    width: 100%;
+}
